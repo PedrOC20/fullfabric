@@ -4,24 +4,23 @@ This Ruby program defines a function that, given an unsorted array of unique int
 
 ### Requirements
 
-```
-ruby 3.1.3
-```
+  ```
+  ruby 3.1.3
+  ```
 
 ### Dependencies Required
 
-```
-rspec
-```
+  ```
+  rspec
+  ```
 
 ### First Time Setup Instructions
 
-1. Clone the repository or download the files:
+1. Clone the repository:
 
-   ```
-   git clone https://your-repo-url.git
-   cd your-repo-directory
-   ```
+  ```
+  git clone https://github.com/PedrOC20/fullfabric.git
+  ```
 
 2. Install RSpec
 
